@@ -56,7 +56,6 @@ Password: Test@123
 <pre>
 ## 📂 Project Structure
 
-```plaintext
 lib/
 ├── main.dart                # App entry point with BLoC providers
 ├── blocs/
