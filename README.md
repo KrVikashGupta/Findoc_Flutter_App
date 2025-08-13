@@ -1,5 +1,4 @@
-# From your project root folder (where README.md will be)
-echo "# 📱 Findoc Flutter App – Login with BLoC Pattern
+# 📱 Findoc Flutter App – Login with BLoC Pattern
 
 ![Flutter](https://img.shields.io/badge/Flutter-3.x-blue?logo=flutter)
 ![Dart](https://img.shields.io/badge/Dart-3.x-blue?logo=dart)
