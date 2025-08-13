@@ -55,7 +55,7 @@ Password: Test@123
 
 ## 📂 Project Structure
 
-\`\`\`
+
 lib/
 ├── main.dart                # App entry point with BLoC providers
 ├── blocs/
@@ -68,7 +68,7 @@ lib/
 │   └── home_screen.dart      # Home screen after successful login
 └── utils/
     └── validators.dart       # Email and password validation utilities
-\`\`\`
+
 
 ---
 
@@ -153,3 +153,16 @@ git commit -m "Add polished README with BLoC pattern details"
 
 # Push to your main branch
 git push origin main
+
+---
+
+## 📫 Contact
+
+**Vikash Kumar Gupta**  
+📍 Bokaro Steel City, Jharkhand  
+✉️ [vikashkumargupta907@gmail.com](mailto:vikashkumargupta907@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/vikash1995) | [GitHub](https://github.com/KrVikashGupta)
+
+---
+
+⭐ If you find this project useful, please consider giving it a star to support the work!
