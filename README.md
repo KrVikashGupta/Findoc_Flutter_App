@@ -57,17 +57,17 @@ Password: Test@123
 
 
 lib/
-├── main.dart                # App entry point with BLoC providers
+├── main.dart # App entry point with BLoC providers
 ├── blocs/
-│   └── auth/
-│       ├── auth_bloc.dart    # Main authentication BLoC
-│       ├── auth_event.dart   # Authentication events
-│       └── auth_state.dart   # Authentication states
+│ └── auth/
+│ ├── auth_bloc.dart # Main authentication BLoC
+│ ├── auth_event.dart # Authentication events
+│ └── auth_state.dart # Authentication states
 ├── screens/
-│   ├── login_screen.dart     # Login screen with validation
-│   └── home_screen.dart      # Home screen after successful login
+│ ├── login_screen.dart # Login screen with validation
+│ └── home_screen.dart # Home screen after successful login
 └── utils/
-    └── validators.dart       # Email and password validation utilities
+└── validators.dart # Email and password validation utilities
 
 
 ---
